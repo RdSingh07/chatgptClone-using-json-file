@@ -1,0 +1,82 @@
+[
+  {
+    "question": "What is React?",
+    "answer": "React is a JavaScript library for building user interfaces, particularly web applications. It was developed by Facebook and allows developers to create reusable UI components and manage application state efficiently."
+  },
+  {
+    "question": "What is JavaScript?",
+    "answer": "JavaScript is a high-level, interpreted programming language that is one of the core technologies of the World Wide Web. It enables interactive web pages and is an essential part of web applications."
+  },
+  {
+    "question": "What is HTML?",
+    "answer": "HTML (HyperText Markup Language) is the standard markup language used to create and structure content on the web. It provides the basic structure of websites, which is then enhanced and modified by CSS and JavaScript."
+  },
+  {
+    "question": "What is CSS?",
+    "answer": "CSS (Cascading Style Sheets) is a stylesheet language used to describe the presentation of a document written in HTML. CSS controls the layout, colors, fonts, and overall visual appearance of web pages."
+  },
+  {
+    "question": "What is a programming language?",
+    "answer": "A programming language is a formal language comprising a set of instructions that produce various kinds of output. Programming languages are used to create programs that implement specific algorithms and control the behavior of machines."
+  },
+  {
+    "question": "What is an API?",
+    "answer": "API stands for Application Programming Interface. It is a set of protocols, routines, and tools for building software applications. APIs define how different software components should interact with each other."
+  },
+  {
+    "question": "What is Node.js?",
+    "answer": "Node.js is an open-source, cross-platform JavaScript runtime environment that executes JavaScript code outside of a web browser. It allows developers to use JavaScript for server-side scripting and building scalable network applications."
+  },
+  {
+    "question": "What is a database?",
+    "answer": "A database is an organized collection of data stored and accessed electronically. Databases are used to store, manage, and retrieve information efficiently. Common types include relational databases (SQL) and NoSQL databases."
+  },
+  {
+    "question": "What is Git?",
+    "answer": "Git is a distributed version control system used for tracking changes in source code during software development. It allows multiple developers to work on the same project simultaneously and maintain a complete history of changes."
+  },
+  {
+    "question": "What is GitHub?",
+    "answer": "GitHub is a web-based platform that uses Git for version control. It provides hosting for software development and allows developers to collaborate on projects, share code, and manage repositories."
+  },
+  {
+    "question": "What is JSON?",
+    "answer": "JSON (JavaScript Object Notation) is a lightweight data-interchange format that is easy for humans to read and write and easy for machines to parse and generate. It is commonly used for transmitting data in web applications."
+  },
+  {
+    "question": "What is a function in programming?",
+    "answer": "A function is a block of code designed to perform a specific task. Functions are reusable pieces of code that can be called multiple times with different inputs (parameters) and can return values. They help organize code and avoid repetition."
+  },
+  {
+    "question": "What is a variable?",
+    "answer": "A variable is a container that stores data values. In programming, variables are used to hold information that can be referenced and manipulated throughout a program. Variables have names and can hold different types of data like numbers, text, or objects."
+  },
+  {
+    "question": "What is an array?",
+    "answer": "An array is a data structure that stores a collection of elements, typically of the same type, in a sequential order. Arrays allow you to store multiple values in a single variable and access them using an index."
+  },
+  {
+    "question": "What is an object in programming?",
+    "answer": "An object is a data structure that stores key-value pairs. In object-oriented programming, objects represent real-world entities and contain both data (properties) and functions (methods) that operate on that data."
+  },
+  {
+    "question": "What is a loop?",
+    "answer": "A loop is a programming construct that repeats a block of code multiple times until a certain condition is met. Common types of loops include for loops, while loops, and do-while loops, which help automate repetitive tasks."
+  },
+  {
+    "question": "What is a conditional statement?",
+    "answer": "A conditional statement is a programming construct that performs different actions based on whether a condition is true or false. Common conditional statements include if-else statements and switch statements, which allow programs to make decisions."
+  },
+  {
+    "question": "What is npm?",
+    "answer": "npm (Node Package Manager) is the default package manager for Node.js. It allows developers to install, manage, and share JavaScript packages and dependencies for their projects. npm also hosts the world's largest software registry."
+  },
+  {
+    "question": "What is a component in React?",
+    "answer": "A component in React is a reusable piece of code that returns a React element to be rendered to the page. Components can be functional (using functions) or class-based, and they help break down the UI into independent, reusable pieces."
+  },
+  {
+    "question": "What is state in React?",
+    "answer": "State in React is a built-in object that stores component data that may change over time. When state changes, the component re-renders. State is managed using the useState hook in functional components and allows components to create and manage their own data."
+  }
+]
